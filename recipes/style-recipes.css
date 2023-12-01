@@ -8,7 +8,7 @@ body {
     margin-right: auto;
 }
 
-.header, h2, p, h3, ol, ul, h5 {
+.header, h2, p, h3, ol, ul, h5, img {
     width: fit-content;
     height: fit-content;
     color: #87D68D;
